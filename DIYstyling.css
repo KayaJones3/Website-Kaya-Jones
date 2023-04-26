@@ -1,0 +1,34 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: maroon;
+    background-color: efe9e;
+}
+ul { 
+    font-size: 17px;
+    color: black;
+    background-color: efe9e;
+}
+.Header {
+    text-align: center;
+    background-color: efe9e1;
+}
+.Picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.Info {
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.Link {
+    font-weight: bold;
+}
+.Nav {
+    text-align: center;
+}
+.InfoHeader {
+    font-weight: bold;
+}
